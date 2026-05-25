@@ -5,7 +5,7 @@ This project demonstrates a full web application penetration testing assessment 
 
 The assessment focuses on common web vulnerabilities from the OWASP Top 10 and includes practical exploitation, traffic analysis, enumeration, and security reporting using professional cybersecurity tools.
 
-Objectives
+# Objectives
 Perform reconnaissance and enumeration on the target application
 
 Identify vulnerable services and exposed endpoints
@@ -38,7 +38,7 @@ Database	- MySQL
 Testing Environment	- VirtualBox 
 
 
-Tools Used
+# Tools Used
 
 Nmap	- Port scanning and service enumeration
 
@@ -50,7 +50,7 @@ Hydra	Brute force testing
 
 Linux Terminal -	Command execution and enumeration
 
-Methodology
+# Methodology
 1. Reconnaissance
 
 Host discovery
@@ -109,7 +109,7 @@ Credential observation
 
 6. Reporting & Remediation
 
-Risk analysis
+# Risk analysis
 
 Impact assessment
 
@@ -120,7 +120,7 @@ Mitigation strategies
 Nmap Reconnaissance Commands
 
 
-Example Vulnerabilities Tested
+# Example Vulnerabilities Tested
 ->SQL Injection	Easy,Medium,Critical
 
 ->Cross Site Scripting (XSS)	
@@ -139,7 +139,7 @@ Weak Session Management	High
 
 Security Misconfiguration	Medium
 
-->Key Findings
+# Key Findings
 
 1.Unsanitized user input allowed SQL Injection attacks
 
@@ -198,6 +198,6 @@ Security Misconfiguration	Medium
 ->Conduct regular security assessments
 
 
-Disclaimer
+## Disclaimer
 
 This project was conducted in a controlled and authorized lab environment for educational purposes and ethical cybersecurity research only. No unauthorized systems or public targets were tested.
