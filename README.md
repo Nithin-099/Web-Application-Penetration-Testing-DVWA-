@@ -135,9 +135,6 @@ Nmap Reconnaissance Commands
 
 CSRF	Medium
 
-Weak Session Management	High
-
-Security Misconfiguration	Medium
 
 # Key Findings
 
