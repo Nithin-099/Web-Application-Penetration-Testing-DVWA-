@@ -124,7 +124,9 @@ Nmap Reconnaissance Commands
 ->SQL Injection	Easy,Medium,Critical
 
 ->Cross Site Scripting (XSS)	
+ 
   ●Reflected XSS-Low,Medium,High
+  
   ●Stored XSS-Low,Medium,High
 
 ->Command Injection	Critical
