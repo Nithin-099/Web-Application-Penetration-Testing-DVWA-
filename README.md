@@ -135,7 +135,7 @@ Nmap Reconnaissance Commands
 
 ->Brute Force Authentication	High
 
-CSRF	Medium
+->CSRF	Medium
 
 
 # Key Findings
