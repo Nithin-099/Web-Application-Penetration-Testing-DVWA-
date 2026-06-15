@@ -1,0 +1,5 @@
+-> 1' OR '1'='1 - by excuting these payload in low level severity of Sql attack on DVWA we find out that the surnmaes and registered names of the customers with their ID numbers.
+->'UNION SELECT user, password FROM users# - These i s a powerful payload,where it used in Medium level Severity that it shows the passwords in encrypted format(SHA256).
+By using thr John The Ripper tool, I cracked the passwords from the results given by it and the passwords proof i had kept in screenshots folder(password_cracking).
+When it is in Critical level the sql payloads cant6 work on the website,So i inspected the website and in the username coloumn i exceuted the sql command as -> 1 or 1=1 UNION SELECT user,password FROM users#.
+Where it gives the complete details of the user and given access to the database. 
