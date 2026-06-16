@@ -144,7 +144,7 @@ Nmap Reconnaissance Commands
 
 2.Reflected XSS vulnerabilities enabled JavaScript execution
 
-3. Weak authentication controls allowed brute-force attacks
+3.Weak authentication controls allowed brute-force attacks
 
 4.Sensitive traffic transmitted over insecure HTTP
 
@@ -162,7 +162,6 @@ Nmap Reconnaissance Commands
 
 
 ->Network Traffic Analysis
-
 
 ->HTTP Request Manipulation
 
