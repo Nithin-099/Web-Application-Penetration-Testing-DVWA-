@@ -47,13 +47,21 @@ Tried Different types of payloads, but still did not get any response. So I went
 
  $substitutions = array(
         '||' => '',
+      
         '&'  => '',
+        
         ';'  => '',
+        
         '| ' => '',
+        
         '-'  => '',
+        
         '$'  => '',
+        
         '('  => '',
+        
         ')'  => '',
+        
         '`'  => '',
 
 Here we can see at  '| ' => '', it has space after '| ', Instead of giving space I executed without space after it which gives the exepcted results for the payloads.
