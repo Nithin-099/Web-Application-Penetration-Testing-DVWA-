@@ -51,76 +51,78 @@ Hydra	Brute force testing
 Linux Terminal -	Command execution and enumeration
 
 # Methodology
-1. Reconnaissance
 
-Host discovery
+# 1.Reconnaissance
 
-Open port identification
+   Host discovery
 
-Service enumeration
+   Open port identification
 
-HTTP fingerprinting
+   Service enumeration
+ 
+   HTTP fingerprinting
 
-2. Web Enumeration
+# 2.Web Enumeration
 
-Directory brute forcing
+   Directory brute forcing
 
-Hidden endpoint discovery
+   Hidden endpoint discovery
 
-HTTP header analysis
+   HTTP header analysis
 
-Parameter identification
+   Parameter identification
 
-3. Vulnerability Assessment
+# 3.Vulnerability Assessment
 
-SQL Injection testing
+   SQL Injection testing
 
-Cross Site Scripting (XSS)
+   Cross Site Scripting (XSS)
 
-Command Injection
+   Command Injection
 
-File Upload vulnerabilities
+   File Upload vulnerabilities
 
-Broken Authentication
+   Broken Authentication
 
-CSRF testing
+   CSRF testing
 
-Security Misconfiguration
+   Security Misconfiguration
 
-4. Exploitation
+# 4.Exploitation
 
-Authentication bypass
+   Authentication bypass
 
-Database enumeration
+   Database enumeration
 
-Payload execution
+   Payload execution
 
-Session analysis
+   Session analysis
 
-5. Traffic Analysis
+# 5.Traffic Analysis
 
-Packet capture using Wireshark
+   Packet capture using Wireshark
 
-HTTP request inspection
+   HTTP request inspection
 
-POST request analysis
+   POST request analysis
 
-Credential observation
+   Credential observation
 
-6. Reporting & Remediation
+# 6.Reporting & Remediation
 
 # Risk analysis
 
-Impact assessment
+  Impact assessment
 
-Security recommendations
+  Security recommendations
 
-Mitigation strategies
+  Mitigation strategies
 
-Nmap Reconnaissance Commands
+  Nmap Reconnaissance Commands
 
 
 # Example Vulnerabilities Tested
+
 ->SQL Injection	Easy,Medium,Critical
 
 ->Cross Site Scripting (XSS)	
@@ -159,7 +161,6 @@ Nmap Reconnaissance Commands
 
 
 ->Vulnerability Assessment & Penetration Testing (VAPT)
-
 
 ->Network Traffic Analysis
 
