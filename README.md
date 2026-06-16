@@ -123,21 +123,21 @@ Linux Terminal -	Command execution and enumeration
 
 # Example Vulnerabilities Tested
 
-->SQL Injection	Easy,Medium,Critical
+->SQL Injection - Easy,Medium,Critical
 
 ->Cross Site Scripting (XSS)	
  
-  ●Reflected XSS-Low,Medium,High
+   ● Reflected XSS - Low,Medium,High
   
-  ●Stored XSS-Low,Medium,High
+   ● Stored XSS - Low,Medium,High
 
-->Command Injection	Critical
+   ● DOM Based XSS - Low,Medium,High
 
-->Insecure File Upload	Critical
+->Command Injection - Critical
 
-->Brute Force Authentication	High
+->Brute Force Authentication -	High
 
-->CSRF	Medium
+->CSRF - Medium
 
 
 # Key Findings
@@ -150,15 +150,12 @@ Linux Terminal -	Command execution and enumeration
 
 4.Sensitive traffic transmitted over insecure HTTP
 
-5.File upload functionality lacked validation controls
-
-6.Command Injection vulnerabilities enabled system command execution
+5.Command Injection vulnerabilities enabled system command execution
 
 
 ## Skills Demonstrated
 
 ->Web Application Penetration Testing
-
 
 ->Vulnerability Assessment & Penetration Testing (VAPT)
 
