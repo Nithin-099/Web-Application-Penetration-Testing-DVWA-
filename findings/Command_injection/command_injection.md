@@ -76,7 +76,17 @@ Here we can see at  '| ' => '', it has space after '| ', Instead of giving space
 
 ## Evidence
 
-Screenshots are in the folder
+Screenshots :-
+
+screenshots/high_command_payload(1)
+
+screenshots/high_command_payload(2)
+
+screenshots/high_command_newfile_execution
+
+screenshots/high_command_payload(3)
+
+screenshots/high_command_payload(3)_info
 
 ## Risk Rating
 
