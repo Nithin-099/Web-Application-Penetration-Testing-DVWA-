@@ -1,0 +1,26 @@
+Target Username:
+admin
+
+Test Passwords:
+password
+admin
+admin123
+password123
+welcome
+test123
+letmein
+qwerty
+123456
+12345678
+
+Purpose:
+Used to demonstrate weak password susceptibility in a controlled DVWA lab environment.
+
+Tool:
+Burp Suite Intruder
+
+Attack Type:
+Single-parameter password testing against a known username.
+
+Expected Outcome:
+Identify weak credentials and validate the effectiveness of authentication controls.
