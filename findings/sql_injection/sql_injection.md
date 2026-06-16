@@ -29,9 +29,17 @@ Attacked on three level severity,where using different type sql injection payloa
 
 ## Evidence
 
-- SQL payload execution screenshot
-- Database records retrieved successfully
-- User information disclosure observed
+Screenshots :-
+
+ screenshots/sql_injection_low_severity_payload.
+ 
+ screenshots/sql_injection_medium_severity_payload.
+ 
+ screenshots/sql_injection_burp_intercept.
+ 
+ screenshots/sql_injectionn_critical_severity_payload.
+ 
+ screenshots/sql_injection_password_cracking.
 
 ## Remediation
 
